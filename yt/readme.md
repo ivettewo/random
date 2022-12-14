@@ -1,5 +1,5 @@
-Вернуться на главную
+[Вернуться на главную](https://github.com/ivettewo/random)
 
 
 
-https://www.youtube.com/watch?v=gygxtttTKbw&ab_channel=ThatPunchKid
+- [ ] [Hanzo](https://www.youtube.com/watch?v=gygxtttTKbw&ab_channel=ThatPunchKid)
